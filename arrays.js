@@ -17,3 +17,5 @@ console.log(valores)
 console.log(typeof valores)
 
 // Array é dinâmico. Cresce ou diminui a medida que vai colocando ou tirando valores
+
+console.log("Qualquer coisa!")
